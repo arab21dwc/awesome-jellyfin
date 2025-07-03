@@ -147,7 +147,7 @@
 - [xsrv.jellyfin](https://github.com/nodiscc/xsrv/tree/master/roles/jellyfin) - Ansible role to deploy and configure Jellyfin.
 - [ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM) - Streams YouTube, Twitch and more via yt-dlp to Jellyfin.
 - [ytdl-sub](https://github.com/jmbannon/ytdl-sub) - Automate downloading and metadata generation with YoutubeDL.
-
+- [Jellyfin-Latest-Content-Export-To-HTML-Website](https://github.com/arab21dwc/Jellyfin-Latest-Content-Export-To-HTML-Website) - This script connects to a Jellyfin server, retrieves the latest added movies and TV episodes, and generates a mobile-friendly, auto-refreshing HTML page displaying media posters, titles, genres, season info, and descriptions.
 
 #### 📜 Snippets
 
